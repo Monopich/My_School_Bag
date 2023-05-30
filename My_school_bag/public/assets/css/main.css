@@ -1,0 +1,308 @@
+#container{
+    width: 390px;
+    height: 810px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: auto;
+}
+.Home{
+    text-align: center;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+.images{
+    font-size: 20px;
+    position: relative;
+    bottom: 40px;
+    left: 40px;
+}
+.zero{
+    width: 390px;
+    height: 30px;
+    /* background-color: aqua; */
+}
+.left-1{
+    float: left;
+    font-size: 18px;
+    position: relative;
+    left: 15px;
+    top: 5px;
+}
+.right-1{
+    float: right;
+    position: relative;
+    right: 15px;
+    top: 5px;
+}
+.First{
+    width: 390px;
+    height: 40px;
+    /* background-color: blue; */
+}
+.left-2{
+    float: left;
+}
+.icon-1{
+    font-size: 25px;
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+p{
+    position: relative;
+    top: 5px;
+}
+.right-2{
+    float: right;
+}
+.fa.fa-search{
+    font-size: 20px;
+    position: relative;
+    right: 20px;
+    top: 15px;
+    right: 25px;
+}
+.Second{
+    width: 390px;
+    height: 85px;
+    border-bottom: 2px solid rgba(7, 146, 246, 1);
+    /* background-color: brown; */
+    display: flex;
+    gap: 1%;
+    position: relative;
+    bottom: 35px;
+}
+.circle{
+    width: 55px;
+    height: 50px;
+    background-color: white;
+    border: 3px solid #1B46FD;
+    border-radius: 55px;
+    position: relative;
+    left: 20px;
+
+}
+.post{
+    font-size: 10px;
+    position: relative;
+    right: 305px;
+    top: 25px;
+}
+.text-post{
+    font-size: 10px;
+    position: relative;
+    top: 55px;
+    right: 330px;
+}
+.Live{
+    font-size: 10px;
+    position: relative;
+    right: 150px;
+    bottom: 28px;
+}
+.text-Live{
+    font-size: 10px;
+    position: relative;
+    right: 175px;
+}
+.Meeting{
+    font-size: 10px;
+    position: relative;
+    right: 0px;
+    bottom: 85px;
+}
+.text-Meeting{
+    font-size: 10px;
+    position: relative;
+    right: 50px;
+    bottom: 55px;
+}
+
+.fa.fa-bell{
+    font-size: 25px;
+    position: relative;
+    top: 15px;
+    right: 12px;
+}
+a{
+    color: black;
+}
+.box-1{
+    width: 390px;
+    height: 50px;
+    /* background-color: brown; */
+}
+.people{
+    float: left;
+    width: 40px;
+    height: 40px;
+    border: 2px solid #1B46FD;
+    border-radius: 40px;
+    position: relative;
+    bottom: 20px;
+    left: 10px;
+}
+.fa.fa-ellipsis-v{
+    position: relative;
+    left: 200px;
+}
+.text-1{
+    position: relative;
+    left: 15px;
+    bottom: 10px;
+}
+.time{
+    font-size: 10px;
+    position: relative;
+    top: 10px;
+    right: 75px;
+}
+.fa.fa-globe{
+    font-size: 10px;
+    position: relative;
+    top: 10px;
+    right: 70px;
+}
+.box-2{
+    width: 390px;
+    height: 30px;
+    position: relative;
+    bottom: 20px;
+}
+.p1{
+    font-size: 12px;
+    position: relative;
+    left: 15px;
+}
+.pic-1{
+    width: 390px;
+    height: 235px;
+    position: relative;
+    bottom: 25px;
+}
+.box-live-1{
+    display: flex;
+    gap: 30px;
+    position: relative;
+    left: 10px;
+    bottom: 25px;
+}
+.box-4{
+    width: 390px;
+    height: 40px;
+    border-bottom: 2px solid white;
+}
+.left-3{
+    float: left;
+}
+.fa.fa-heart{
+    font-size: 20px;
+}
+.fa.fa-comments{
+    font-size: 20px;
+}
+.fa.fa-share-alt{
+    font-size: 20px;
+}
+.right-3{
+    float: right;
+}
+.view{
+    font-size: 16px;
+    position: relative;
+    right: 10px;
+    bottom: 22px;
+}
+.pic-2{
+    width: 390px;
+    position: relative;
+    bottom: 20px;
+    border-bottom: 3px solid #b0b2b8;
+}
+.left-4{
+    float: left;
+}
+.right-4{
+    float: right;
+}
+.box-live-2{
+    display: flex;
+    gap: 30px;
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+.bottom{
+    border-radius: 2px;
+    position: relative;
+    bottom: 3px;
+}
+.people2{
+    float: left;
+    width: 40px;
+    height: 40px;
+    border: 2px solid #1B46FD;
+    border-radius: 40px;
+    position: relative;
+    bottom: 20px;
+    left: 10px;
+}
+.text-2{
+    position: relative;
+    left: 15px;
+    bottom: 10px;
+}
+.p2{
+    font-size: 12px;
+    position: relative;
+    right: 30px;
+}
+.five{
+    font-size: 25px;
+    display: flex;
+    gap: 45px;
+    position: relative;
+    left: 40px;
+    bottom: 20px;
+}
+.fa.fa-home{
+    width: 28px;
+    border-bottom: 3px solid black;
+    position: relative;
+    top: px;
+}
+.circle1{
+    width: 50px;
+    height: 50px;
+    border-radius: 55px;
+    position: relative;
+
+}
+.b1{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    position: relative;
+    border-radius: 50%;
+
+}
+#Pich{
+    border-radius: 50%;
+}
+#len{
+    border-radius: 50%;
+}
+#ousa{
+    border-radius: 50%;
+}
+#boy{
+    border-radius: 50%;
+}
+#nith{
+    border-radius: 50%;
+}
+#lang{
+    border-radius: 50%;
+}
+
