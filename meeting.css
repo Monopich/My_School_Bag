@@ -1,0 +1,243 @@
+.meeting-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.meeting-meeting {
+  width: 100%;
+  height: 888px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.meeting-screen {
+  top: 19px;
+  left: 26px;
+  width: 390px;
+  height: 844px;
+  position: absolute;
+  border-radius: 54px;
+}
+.meeting-frame {
+  top: 142px;
+  left: 297px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.meeting-vector {
+  top: 43px;
+  left: 367px;
+  width: 30px;
+  height: 18px;
+  position: absolute;
+}
+.meeting-vector1 {
+  top: 42px;
+  left: 333px;
+  width: 23px;
+  height: 18px;
+  position: absolute;
+}
+.meeting-text {
+  top: 43px;
+  left: 80px;
+  color: rgba(4, 4, 4, 1);
+  width: 81px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.meeting-frame01 {
+  top: 94px;
+  left: 46px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.meeting-text2 {
+  top: 71px;
+  left: 24px;
+  color: rgba(0, 0, 0, 1);
+  width: 273px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.meeting-frame02 {
+  top: 94px;
+  left: 358px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.meeting-frame03 {
+  top: 94px;
+  left: 385px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.meeting-line4 {
+  top: 130px;
+  left: 29px;
+  width: 385px;
+  position: absolute;
+}
+.meeting-line8 {
+  top: 817px;
+  left: 29px;
+  width: 385px;
+  position: absolute;
+}
+.meeting-text7 {
+  top: 136px;
+  color: rgba(0, 0, 0, 1);
+  width: 272px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.meeting-frame04 {
+  top: 827px;
+  left: 207px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+.meeting-frame05 {
+  top: 827px;
+  left: 138px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+.meeting-frame06 {
+  top: 827px;
+  left: 68px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+.meeting-frame07 {
+  top: 827px;
+  left: 348px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+.meeting-frame08 {
+  top: 827px;
+  left: 278px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+.meeting-line7 {
+  top: 859px;
+  left: 205px;
+  width: 31px;
+  position: absolute;
+}
+.meeting-frame09 {
+  top: 144px;
+  left: 385px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.meeting-group2 {
+  top: 138px;
+  left: 251px;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.meeting-ellipse5 {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  border-color: rgba(27, 70, 253, 1);
+}
+.meeting-frame10 {
+  top: 144px;
+  left: 341px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.meeting-rectangle47 {
+  top: 178px;
+  left: 26px;
+  width: 388px;
+  height: 637px;
+  position: absolute;
+  border-color: rgba(199, 200, 199, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.meeting-frame11 {
+  top: 781px;
+  left: 169px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.meeting-frame12 {
+  top: 781px;
+  left: 64px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.meeting-frame13 {
+  top: 781px;
+  left: 273px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.meeting-frame14 {
+  top: 781px;
+  left: 363px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.meeting-frame15 {
+  top: 781px;
+  left: 363px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
